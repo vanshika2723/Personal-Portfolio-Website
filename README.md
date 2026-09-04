@@ -4,7 +4,7 @@ A full-stack personal portfolio website built to showcase my skills, projects, e
 
 ## 🚀 Live Demo
 
-[https://YOUR-VERCEL-URL.vercel.app](https://personal-portfolio-website-three-phi.vercel.app/)
+https://personal-portfolio-website-three-phi.vercel.app/
 
 ## 📌 Features
 
