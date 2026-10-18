@@ -56,8 +56,8 @@ function Certifications() {
 {
   icon: "🏅",
   year: "2026",
-  title: "Your Certificate Name",
-  issuer: "Spirex",
+  title: "Frontend Developer Intern",
+  issuer: "Spirex Foundation",
   description:
     "Successfully completed the certification and gained practical knowledge through learning and project work.",
   tags: ["Web Development", "Learning", "Skills"],
