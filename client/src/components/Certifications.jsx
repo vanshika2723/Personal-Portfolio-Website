@@ -53,7 +53,16 @@ function Certifications() {
 },
 
 
-
+{
+  icon: "🏅",
+  year: "2026",
+  title: "Your Certificate Name",
+  issuer: "Spirex",
+  description:
+    "Successfully completed the certification and gained practical knowledge through learning and project work.",
+  tags: ["Web Development", "Learning", "Skills"],
+  link: "https://drive.google.com/file/d/1PXdb4jBHIHlKHw6Ix8mAm7JroKm9OAuM/view?usp=sharing",
+},
 
   ];
 
